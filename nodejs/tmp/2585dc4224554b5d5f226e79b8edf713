@@ -1,0 +1,83 @@
+	<article class="article article-width-margin6 article-hot-commodity hasOffsetUp">
+				<h3>新品推荐</h3>
+				<ul class="grid-box">
+					<li class="grid-item">
+						<div class="grid-cont">
+							<a href="/list/s-HOVRRUN" class="grid-img" target="_blank">
+								<img src="https://resource-stage.underarmour.cn/images/blank.gif"  lazySrc="https://static.underarmour.cn/cn/prod/resources/images/20190808-REVISION/banner/PC-0914-1.jpg" data-image='{
+                                        "standard":{"high":"", "normal":"https://static.underarmour.cn/cn/prod/resources/images/20190808-REVISION/banner/PC-0914-1.jpg"},
+                                        "medium":{"high":"", "normal":"https://static.underarmour.cn/cn/prod/resources/images/20190808-REVISION/banner/MOB-0914-1.jpg"},
+                                        "small":{"high":"", "normal":"https://static.underarmour.cn/cn/prod/resources/images/20190808-REVISION/banner/MOB-0914-1.jpg"}
+                                    }' onclick="gsPush('HP','新品推荐Banner1','Machina')"/>
+							</a>
+							<div class="link-box">
+								<div class="link-cont">
+									<a href="/list/cmens-footwear-newItem" class="underline-hover" onclick="gsPush('HP','新品推荐Banner1-1','男鞋')" target="_blank">男鞋</a>
+									<a href="/list/cwomens-footwear-newItem" class="underline-hover" onclick="gsPush('HP','新品推荐Banner1-2','女鞋')" target="_blank">女鞋</a>
+									<a href="/list/s-HOVRRUN" class="underline-hover" onclick="gsPush('HP','新品推荐Banner1-3','Infinite 2')" target="_blank">UA HOVR MACHINA跑鞋</a>
+									<a href="/list/cvirtual-newitem-ftw" class="underline-hover buy-all" onclick="gsPush('HP','新品推荐Banner1-4','购买所有')" target="_blank">购买所有</a>
+								</div>
+							</div>
+						</div>
+						<div class="cat-btn">
+							<a href="/list/cvirtual-newitem-ftw" class="underline-hover btn-buy none-sm" onclick="gsPush('HP','新品推荐Banner1','选购鞋类')" target="_blank">选购鞋类</a>
+							<a href="/list/cvirtual-newitem-ftw" class="underline-hover-reverse btn-buy none block-sm" target="_blank">选购鞋类</a>
+						</div>
+					</li>
+					<li class="grid-item">
+						<div class="grid-cont">
+							<a href="/list/s-projectrock" class="grid-img" target="_blank">
+								<img src="https://resource-stage.underarmour.cn/images/blank.gif"  lazySrc="https://static.underarmour.cn/cn/prod/resources/images/20190808-REVISION/banner/PC-1001.jpg" data-image='{
+                                        "standard":{"high":"", "normal":"https://static.underarmour.cn/cn/prod/resources/images/20190808-REVISION/banner/PC-1001.jpg"},
+                                        "medium":{"high":"", "normal":"https://static.underarmour.cn/cn/prod/resources/images/20190808-REVISION/banner/MOB-1001.jpg"},
+                                        "small":{"high":"", "normal":"https://static.underarmour.cn/cn/prod/resources/images/20190808-REVISION/banner/MOB-1001.jpg"}
+                                    }' onclick="gsPush('HP','新品推荐Banner2','PROJECT ROCK')"/>
+							</a>
+							<div class="link-box">
+								<div class="link-cont">
+									<a href="/list/cmens-tops-newItem" class="underline-hover" onclick="gsPush('HP','新品推荐Banner2-1','上装')" target="_blank">上装</a>
+									<a href="/list/cmens-bottoms-newItem" class="underline-hover"  onclick="gsPush('HP','新品推荐Banner2-2','下装')" target="_blank">下装</a>
+									<a href="/list/s-projectrock" class="underline-hover"  onclick="gsPush('HP','新品推荐Banner2-3','MEN'S TECH')" target="_blank">PROJECT ROCK系列</a>
+									<a href="/list/cvirtual-newitem-mennewitem" class="underline-hover buy-all" onclick="gsPush('HP','新品推荐Banner2-4','购买所有')" target="_blank">购买所有</a>
+								</div>
+							</div>
+						</div>
+						<div class="cat-btn">
+							<a href="/list/cvirtual-newitem-mennewitem" class="underline-hover btn-buy none-sm" onclick="gsPush('HP','新品推荐Banner2','选购男子装备')" target="_blank">选购男子装备</a>
+							<a href="/list/cvirtual-newitem-mennewitem" class="underline-hover-reverse btn-buy none block-sm" target="_blank">选购男子装备</a>
+						</div>
+					</li>
+					<li class="grid-item">
+						<div class="grid-cont">
+							<a href="/list/cwomens-tops-sportbra" class="grid-img" target="_blank">
+								<img src="https://resource-stage.underarmour.cn/images/blank.gif"  lazySrc="https://static.underarmour.cn/cn/prod/resources/images/20190808-REVISION/banner/PC-0914-3.jpg" data-image='{
+                                        "standard":{"high":"", "normal":"https://static.underarmour.cn/cn/prod/resources/images/20190808-REVISION/banner/PC-0914-3.jpg"},
+                                        "medium":{"high":"", "normal":"https://static.underarmour.cn/cn/prod/resources/images/20190808-REVISION/banner/MOB-0914-3.jpg"},
+                                        "small":{"high":"", "normal":"https://static.underarmour.cn/cn/prod/resources/images/20190808-REVISION/banner/MOB-0914-3.jpg"}
+                                    }' onclick="gsPush('HP','新品推荐Banner3','INFINITY BRA')"/>
+							</a>
+							<div class="link-box">
+								<div class="link-cont">
+									<a href="/list/cwomens-tops-newItem" class="underline-hover"   onclick="gsPush('HP','新品推荐Banner3-1','上装')" target="_blank">上装</a>
+									<a href="/list/cwomens-bottoms-newItem" class="underline-hover"  onclick="gsPush('HP','新品推荐Banner3-2','下装')" target="_blank">下装</a>
+									<a href="/list/cwomens-tops-sportbra" class="underline-hover" onclick="gsPush('HP','新品推荐Banner3-3','INFINITY BRA')" target="_blank">INFINITY BRA</a>
+									<a href="/list/cvirtual-newitem-womannewitem" class="underline-hover buy-all"  onclick="gsPush('HP','新品推荐Banner3-4','购买所有')" target="_blank">购买所有</a>
+								</div>
+							</div>
+						</div>
+						<div class="cat-btn">
+							<a href="/list/cvirtual-newitem-womannewitem" class="underline-hover btn-buy none-sm"    onclick="gsPush('HP','新品推荐Banner3','选购女子装备')" target="_blank">选购女子装备</a>
+							<a href="/list/cvirtual-newitem-womannewitem" class="underline-hover-reverse btn-buy none block-sm" target="_blank">选购女子装备</a>
+						</div>
+					</li>
+				</ul>
+			</article>
+			<!-- 视频轮播 -->
+			
+  
+<script>
+    $.spice.tools.changeImageSrc({
+		elem: 'img[data-src][data-image]',
+		lazyData: 'data-src'
+	});
+</script>

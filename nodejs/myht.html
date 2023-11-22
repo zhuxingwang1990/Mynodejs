@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>菜鸟教程(runoob.com)</title>
+</head>
+<body>
+<script src="myScript.js"></script>
+<h1>我的 Web 页面</h1>
+<p id="demo">一个段落</p>
+
+<button type="button" onclick="myFunction2222()">尝试一下</button>
+<script>
+
+document.write(Date());
+function myfunction33(){
+    document.write("使用函数来执行doucment.write，即在文档加载后再执行这个操作，会实现文档覆盖");
+    window.alert(16 + "Volvo");
+}
+
+function myFunction2222() {
+    carName = "Volvo";
+    document.getElementById("demo").innerHTML="段落已修改。"+carName;
+    // 此处可调用 carName 变量
+}
+
+
+</script>
+
+<p >
+    您只能在 HTML 输出流中使用 <strong>document.write</strong>。
+    如果您在文档已加载后使用它（比如在函数中），会覆盖整个文档。
+</p>
+<button type="button" onclick="myfunction33()">点击这里</button>
+
+<script>
+document.write(Date());
+<!--
+document.write("您的浏览器支持JavaScript脚本!");
+-->
+</script>
+
+<script>
+a = 5
+b = 6
+c = a + b
+console.log(c,window.carName)
+
+var cars=["Saab","Volvo","BMW"];
+for (var i=0;i<cars.length;i++)
+{
+    document.write("<br>"+cars[i] );
+}
+var i=0,x
+do
+{
+    x+= "The number is " + i + "<br>";
+    i++;
+    document.write(x)
+}while (i<0)
+function isValid(str) { return /^\w+$/.test(str); }
+str = "1234abd__"
+document.write(isValid(str));
+document.write("<br>");
+
+str2 = "$32343#"
+document.write(isValid(str2));
+document.write("<br>");
+</script>
+
+<p>点击这个按钮，来调用带参数的函数。</p>
+<button onclick="myFunction('Harry Potter','Wizard')">点击这里</button>
+<button onclick="myFunction('Bob','Builder')">点击这里</button>
+</body>
+</html>
