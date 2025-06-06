@@ -4,8 +4,8 @@
   "description": "node",
   "main": "server.js",
   "scripts": {
-    "test": "start node server.js",
-    "start": "node server.js"
+    "test": "start node server2.js",
+    "start": "node server2.js"
   },
   "repository": {
     "type": "git",
@@ -27,7 +27,7 @@
     "cookie-parser": "^1.4.6",
     "express": "^4.17.1",
     "inquirer": "^8.2.0",
-    "multer": "^1.4.3",
+    "multer": "^1.4.4",
     "pg": "^8.7.1",
     "progress": "^2.0.3"
   }
